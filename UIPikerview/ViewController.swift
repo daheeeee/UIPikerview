@@ -3,7 +3,7 @@
 //  UIPikerview
 //
 //  Created by D7702_10 on 2018. 4. 19..
-//  Copyright © 2018년 ksh. All rights reserved.
+//  Copyright © 2018년 jsk. All rights reserved.
 //
 
 import UIKit
